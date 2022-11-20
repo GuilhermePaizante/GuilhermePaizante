@@ -1,11 +1,11 @@
 
 
-<h1> Guilherme Paizante <\h1>
+## Guilherme Paizante
   
 ---
   
 <h4> Sobre <h4>
-  Programo por diversão e para adquirir novos conhecimentos. Comecei com a linguagem C++, porém, foi com python que melhor me identifiquei, também sei um pouco de Css e Html (não gosto muito de front-end, principalmente de css :3 ) sei usar o Bootatrap apesar de ter que ficar olhando a documentação a cada segundo. Cheguei a participar de um projeto de extensão da faculdade e nele um pouco do Micro Framework Flask eu aprendi. Hoje penso em refazer o projeto, porém usando o Framework Django (que estou aprendendo). Ao certo não sei o que posso estar fazendo amanhã; mas sei, que não muito distante, quero aprender um pouco de Data Science. Por quê? Porque não, conhecimento nunca é demais. Né? Enquanto me restar tempo nessas poucas 24 horas dos dias vou continuar aprendendo, seja o que for (else, if e elif também).
+>  Programo por diversão e para adquirir novos conhecimentos. Comecei com a linguagem C++, porém, foi com python que melhor me identifiquei, também sei um pouco de Css e Html (não gosto muito de front-end, principalmente de css :3 ) sei usar o Bootatrap apesar de ter que ficar olhando a documentação a cada segundo. Cheguei a participar de um projeto de extensão da faculdade e nele um pouco do Micro Framework Flask eu aprendi. Hoje penso em refazer o projeto, porém usando o Framework Django (que estou aprendendo). Ao certo não sei o que posso estar fazendo amanhã; mas sei, que não muito distante, quero aprender um pouco de Data Science. Por quê? Porque não, conhecimento nunca é demais. Né? Enquanto me restar tempo nessas poucas 24 horas dos dias vou continuar aprendendo, seja o que for (else, if e elif também).
 
 
 <div style="display: inline_block"><br>
